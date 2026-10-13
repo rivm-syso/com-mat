@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: com-mat
+message: ' If you use this software, please cite it using the   metadata from this file.'
+type: software
+authors:
+  - name: RIVM
+    address: P.O. Box 1
+    city: Bilthoven
+    country: NL
+    post-code: 3720BA
+repository-code: 'https://github.com/rivm-syso/com-mat'
+abstract: >
+  This repository contains a model file and a data file. The
+  model file is an agent-based model simulating household
+  heat pump adoption in the Netherlands. The data file
+  provides a synthetic population that determines the
+  attribute values of agents in the model.
+keywords:
+  - RIVM
+  - Heat pump adoption
+  - Agent-based model
+  - ABM
+  - Household
+license: EUPL-1.2
+version: 2026.10.0
+date-released: '2026-10-13'

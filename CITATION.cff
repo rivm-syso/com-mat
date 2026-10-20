@@ -8,6 +8,7 @@ authors:
     city: Bilthoven
     country: NL
     post-code: 3720BA
+    email: info@rivm.nl
 repository-code: 'https://github.com/rivm-syso/com-mat'
 abstract: >
   This repository contains a model file and a data file. The

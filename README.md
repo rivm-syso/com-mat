@@ -1,4 +1,4 @@
-[![DOI](https://img.shields.io/badge/DOI-10.21945%2F261a56ec--3a4b--407c--bab3--ea384a9eb1bb-blue)](https://doi.org/10.21945/261a56ec-3a4b-407c-bab3-ea384a9eb1bb)
+[![DOI](https://zenodo.org/badge/doi/10.21945/261a56ec-3a4b-407c-bab3-ea384a9eb1bb.svg)](https://zenodo.org/records/23500122)
 
 # Agent-based model of household heat pump adoption in the Netherlands
 

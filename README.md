@@ -1,8 +1,10 @@
+[![DOI](https://img.shields.io/badge/DOI-10.21945%2F261a56ec--3a4b--407c--bab3--ea384a9eb1bb-blue)](https://doi.org/10.21945/261a56ec-3a4b-407c-bab3-ea384a9eb1bb)
+
 # Agent-based model of household heat pump adoption in the Netherlands
 
 Results generated with this model were published in the paper:
 
-> **Exploring policy effects on heat pump adoption with a behavioral agent-based model**
+**Exploring policy effects on heat pump adoption with a behavioral agent-based model**
 
 The model includes two files:
 

@@ -3,12 +3,13 @@ title: com-mat
 message: ' If you use this software, please cite it using the   metadata from this file.'
 type: software
 authors:
-  - name: RIVM
-    address: P.O. Box 1
-    city: Bilthoven
-    country: NL
-    post-code: 3720BA
+  - affiliation: >-
+      National Institute for Public Health and the
+      Environment
+    given-names: Lynn
+    family-names: de Jager
     email: info@rivm.nl
+    orcid: 'https://orcid.org/0009-0009-4300-2907'
 repository-code: 'https://github.com/rivm-syso/com-mat'
 abstract: >
   This repository contains a model file and a data file. The
